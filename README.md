@@ -1,4 +1,4 @@
-# TIC TAC TOE Game
+# [TIC TAC TOE Game](https://jeetmajumdar2003.github.io/TIC-TAC-TOE-Game/)
 
 This is a simple and interactive TIC TAC TOE game built using HTML, CSS, and JavaScript. The game is designed to be played on a 3x3 grid by two players, who take turns marking the spaces in the grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
 
